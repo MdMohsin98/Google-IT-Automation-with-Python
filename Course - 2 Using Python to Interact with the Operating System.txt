@@ -1,0 +1,24 @@
+Major Topics Covered during this course : 
+
+1. Linux Ubuntu
+2. Automating task through programming
+3. Introduction to Qwiklabs
+4. Reading and writing files
+5. Managing files and directories
+6. Reading and writing csv files
+7. Regular expressions
+8. Basic Regular Expressions
+9. Advanced Regualar Expressions
+10. Data Streams
+11. Python Subprocesses
+12. Processing log files
+13. Simple tests - Testing in Python
+14. Unit Tests, Automated Testing
+15. Black Box and White Box testing concepts
+16. Test driven development
+17. Errors and Exceptions (Try - Except Keywords)
+18. Raising Errors
+19. Testing for expected errors.
+20. Interacting with command line shell
+21. Bash scripting, linux commands, Redirecting streams, Pipes and Pipelines, Signalling Process
+22. Advanced Bash Concepts

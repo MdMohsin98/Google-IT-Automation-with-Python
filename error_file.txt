@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/mnt/c/Users/Dell/./streams_err.py", line 5, in <module>
+    raise ValueError("Now we will generate an error to STDERR")
+ValueError: Now we will generate an error to STDERR

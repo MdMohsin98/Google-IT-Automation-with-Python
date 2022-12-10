@@ -1,0 +1,2 @@
+This is the doccument created just for giving example of rename function of os module in 
+python.

@@ -1,0 +1,15 @@
+Major topics covered during this course:
+
+1. Expressions and variables
+2. Functions
+3. Conditionals
+4. While loops
+5. For loops
+6. Recursion
+7. Strings
+8. Strings
+9. Lists
+10. Dictionaries
+11. OOPs (Object Oriented Programming)
+12. Classes and Methods
+13. Code Reuse (Inheritance, Composition, Modules)
